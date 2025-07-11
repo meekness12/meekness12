@@ -29,7 +29,7 @@ I turn ideas into interactive web experiences — with a growing interest in Pyt
 
 ## 📈 GitHub Contribution Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=meekthinker&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=meekness12&theme=react-dark&hide_border=true)
 
 ---
 
