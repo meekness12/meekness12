@@ -35,11 +35,11 @@ I turn ideas into interactive web experiences — with a growing interest in Pyt
 
 ## 🔥 My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meekthinker&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meekness12&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekthinker&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meektness12&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekthinker&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekness12&layout=compact&theme=radical&hide_border=true)
 
 ---
 
