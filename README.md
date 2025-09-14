@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Meekness Bonheur (aka **meekthinker**)
+# 👋 Hey there, I'm Meekness Bonheur ( **meekthinker**)
 
 🎯 Passionate Web Developer | 🎥 YouTube Content Creator | 🧠 Lifelong Learner  
 I turn ideas into interactive web experiences — with a growing interest in Python for automation and backend magic.
