@@ -1,7 +1,9 @@
+
+
 # 👋 Hey there, I'm Meekness Bonheur ( **meekthinker**)
 
 🎯 Passionate Web Developer | 🎥 YouTube Content Creator | 🧠 Lifelong Learner  
-I turn ideas into interactive web experiences — with a growing interest in Python for automation and backend magic.
+I turn ideas into interactive web experiences with a growing interest in Python for automation and backend magic.
 
 ---
 
@@ -22,8 +24,8 @@ I turn ideas into interactive web experiences — with a growing interest in Pyt
 
 ## ✨ Projects I'm proud of
 
-- 🎓 Campus Community Forum — For students to connect, share ideas, and grow  
-- 🧾 ePortfolio System — Digital replacement for paper-based academic evidence collection (React + JS)
+- 🎓 Campus Community Forum  For students to connect, share ideas, and grow  
+- 🧾 ePortfolio System  Digital replacement for paper-based academic evidence collection (React + JS)
 
 ---
 
