@@ -18,6 +18,8 @@ I turn ideas into interactive web experiences with a growing interest in Python 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -53,7 +55,9 @@ I turn ideas into interactive web experiences with a growing interest in Python 
 - **Machine Learning** fundamentals  
 - Building reusable components in **React**  
 - Clean UI/UX using **Tailwind CSS**  
-- Integrating **AI tools** into development
+- Integrating **AI tools** into development  
+- **Java** for backend and enterprise applications  
+- Still exploring **Figma** for UI/UX design  
 
 ---
 
