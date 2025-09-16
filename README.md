@@ -1,8 +1,6 @@
-
-
-# 👋 Hey there, I'm Meekness Bonheur ( **meekthinker**)
-
-🎯 Passionate Web Developer | 🎥 YouTube Content Creator | 🧠 Lifelong Learner  
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Meekness+Bonheur;Passionate+Web+Developer+%26+Software+Engineer;Lifelong+Learner;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 I turn ideas into interactive web experiences with a growing interest in Python for automation and backend magic.
 
 ---
