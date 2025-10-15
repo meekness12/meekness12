@@ -1,62 +1,56 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+I'm+Meekness+Bonheur;Passionate+Web+Developer+%26+Software+Engineer;Lifelong+Learner;Welcome+to+my+GitHub+Profile!" 
-    alt="Typing SVG" 
-  />
-</p>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+I'm+Meekness+Bonheur;Passionate+Web+Developer+%26+Software+Engineer;Lifelong+Learner;Welcome+to+my+GitHub+Profile!" 
+  alt="Typing SVG" 
+/>
 
-<p align="center">
-  <b>I turn ideas into interactive web experiences.</b><br/>
-  With a growing passion for Python, automation, and backend magic ⚡
-</p>
+**I turn ideas into interactive web experiences** —  
+with a growing passion for Python, automation, and backend magic ⚡
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+**Frontend Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend & Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Database & Server Management:**  
+![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## ✨ Featured Projects
 
-🚀 **[Campus Community Forum](#)** — A student-driven platform for collaboration and idea exchange.  
-📘 **[ePortfolio System](#)** — A digital academic evidence collection tool built with React + JS.
+- 🚀 **[Campus Community Forum](#)** — A student-driven platform for collaboration and idea exchange.  
+- 🧾 **[ePortfolio System](#)** — A digital academic evidence collection tool built with React + JavaScript.
 
-> _More projects coming soon... Stay tuned!_
+> _More projects coming soon — stay tuned!_
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meekness12&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meekness12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meekness12&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meekness12&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meekness12&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekness12&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meekness12&layout=compact&theme=radical&hide_border=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meekness12&theme=react-dark&hide_border=true)
 
 ---
 
@@ -67,23 +61,20 @@
 - **Machine Learning** fundamentals  
 - UI/UX excellence with **Figma** + **Tailwind CSS**  
 - Integrating **AI tools** into development workflows  
-- Expanding backend mastery with **Java**
+- Expanding backend mastery with **Java**  
+- **Database Administration (Oracle & MySQL)**  
+- **Windows Server Management**
 
 ---
 
 ## 🤝 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![Twitter](https://img.shields.io/badge/Twitter%20(X)-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourhandle)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
 ---
 
-<p align="center">
-  <em>“Code is not just syntax — it’s poetry in logic.”</em>  
-  <br/>
-  <b>– Meekness Bonheur</b>
-</p>
+> _“Code is not just syntax — it’s poetry in logic.”_  
+> **– Meekness Bonheur**
