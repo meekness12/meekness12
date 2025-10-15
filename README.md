@@ -38,8 +38,8 @@ with a growing passion for Python, automation, and backend magic ⚡
 
 ## ✨ Featured Projects
 
-- 🚀 **[Campus Community Forum](#)** — A student-driven platform for collaboration and idea exchange.  
-- 🧾 **[ePortfolio System](#)** — A digital academic evidence collection tool built with React + JavaScript.
+- 🚀 **[Campus Community Forum](#)**  A student-driven platform for collaboration and idea exchange.  
+- 🧾 **[ePortfolio System](#)**  A digital academic evidence collection tool built with React + JavaScript.
 
 > _More projects coming soon — stay tuned!_
 
@@ -76,5 +76,5 @@ with a growing passion for Python, automation, and backend magic ⚡
 
 ---
 
-> _“Code is not just syntax — it’s poetry in logic.”_  
+> _“Code is not just syntax  it’s poetry in logic.”_  
 > **– Meekness Bonheur**
