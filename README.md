@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="left">
 
-<h2>Hi there! 👋 I'm Meekness Bonheur</h2>
+<h2>Hi there!  I'm Meekness Bonheur</h2>
 
 <p>
   <b>💻 Passionate Web Developer & Software Engineer</b><br/>
@@ -41,8 +41,6 @@
 **Backend & Programming**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **Database & Server Management**  
 ![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
