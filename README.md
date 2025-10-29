@@ -60,7 +60,7 @@
 - 🚀 **[Campus Community Forum](#)** — A student-driven platform for collaboration and idea exchange.  
 - 🧾 **[ePortfolio System](#)** — A digital academic evidence collection tool built with React + JavaScript.
 
-> _More projects coming soon — stay tuned!_
+> More projects coming soon  stay tuned!_
 
 ---
 
