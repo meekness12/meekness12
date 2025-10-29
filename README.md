@@ -86,5 +86,5 @@
 
 ---
 
-> _“Code is not just syntax — it’s poetry in logic.”_  
+> _“Code is not just syntax  it’s poetry in logic.”_  
 > **– Meekness Bonheur**
