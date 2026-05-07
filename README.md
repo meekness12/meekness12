@@ -4,7 +4,7 @@
 <h2>Hi there!  I'm Meekness Bonheur</h2>
 
 <p>
-  <b>💻 Passionate Web Developer & Software Engineer</b><br/>
+  <b> Passionate Web Developer & Software Engineer</b><br/>
   🚀 I turn ideas into interactive web experiences — with a growing passion for Python, automation, and backend magic.
 </p>
 
@@ -39,7 +39,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Backend & Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 **Database & Server Management**  
