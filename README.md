@@ -51,7 +51,7 @@ const meekness = {
   superpower:  "Turning ideas into pixel-perfect, user-loved digital products",
   certified:   "🤖 Anthropic AI Certified Developer",
   languages:   ["English", "French", "Kinyarwanda"],
-  contact:     "your@email.com",
+  contact:     "Meeknessbon@gmail.com",
 };
 ```
 
