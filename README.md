@@ -176,13 +176,13 @@ Whether you're building a **SaaS product**, need a **design-to-code expert**, wa
 
 <br/>
 
-<a href="mailto:your@email.com">
+<a href="mailto:meeknessbon@email.com">
   <img src="https://img.shields.io/badge/📧%20Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/meeknessbonheur">
   <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="https://yourwebsite.com">
+<a href="https://meekthinker.me">
   <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
